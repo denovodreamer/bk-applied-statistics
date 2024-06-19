@@ -4,8 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../utils"
+			"path": "/Users/pedro/Desktop/projects/utils"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.defaultInterpreterPath": "/Users/pedro/Desktop/projects/venv_global/bin/python"
+	}
 }
